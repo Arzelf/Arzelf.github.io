@@ -230,7 +230,12 @@ const textNodes = [{
         options: [{
             text: '.............',
             nextText: 9
-        }]
+        },
+        {
+                text: 'Keluar',
+                setState: { mati1: false, mati2: false, mati3: false },
+                nextText: 1
+            }]
     },
     {
         id: 14,
@@ -239,7 +244,12 @@ const textNodes = [{
             text: '.............',
             setState: { mati2: true, lihatElina: true, },
             nextText: 2
-        }]
+        },
+                 {
+                text: 'Keluar',
+                setState: { mati1: false, mati2: false, mati3: false },
+                nextText: 1
+            }]
     },
     {
         id: 15,
@@ -248,7 +258,12 @@ const textNodes = [{
             text: '.............',
             setState: { pre: true },
             nextText: 16
-        }]
+        },
+                 {
+                text: 'Keluar',
+                setState: { mati1: false, mati2: false, mati3: false },
+                nextText: 1
+            }]
     },
     {
         id: 16,
