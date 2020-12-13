@@ -276,7 +276,7 @@ const textNodes = [{
     },
     {
         id: 17,
-        text: 'Kamipun memutuskan bergi kegedung sekolah, disana elina tidak ada. Tiba-tiba sesuatu menghantam belakang kepalaku dan aku mulai terjatuh. Kesadaranku setengah hilang hinga aku tidak mampu bediri dan hanya bisa melihat. Kulihat rey dikeroyok oleh beberapa siswa, dia berusaha melawan. Namun salah satu dari siswa tersebut menusuknya dengan pisau lalu kepalanya dipukul hingga dia pingsan. Mereka tertawa puas. Sesaat aku seperti mendengar mereka berbicara \n “akhirnya kita bisa menghabisi banjingan yang merebut gadis kita.”',
+        text: 'Kamipun memutuskan pergi kegedung sekolah, disana elina tidak ada. Tiba-tiba sesuatu menghantam belakang kepalaku dan aku mulai terjatuh. Kesadaranku setengah hilang hinga aku tidak mampu bediri dan hanya bisa melihat. Kulihat rey dikeroyok oleh beberapa siswa, dia berusaha melawan. Namun salah satu dari siswa tersebut menusuknya dengan pisau lalu kepalanya dipukul hingga dia pingsan. Mereka tertawa puas. Sesaat aku seperti mendengar mereka berbicara \n “akhirnya kita bisa menghabisi banjingan yang merebut gadis kita.”',
         options: [{
             text: '.............',
             setState: { mati3: true },
@@ -314,7 +314,7 @@ const textNodes = [{
     },
     {
         id: 21,
-        text: 'Games ini dibuat untuk memenuhi matakuliah analisis dan desain algoritma \n Dibuat oleh : M. Aris Firmansyah, Bustomi Ardiansyah',
+        text: 'Games ini dibuat untuk memenuhi matakuliah analisis dan desain algoritma \n Dibuat oleh : M. Aris Firmansyah (180535632537), M. Busthomi Arviansyah (180535632580)',
         options: [{
             text: 'Kembali',
             nextText: -1
